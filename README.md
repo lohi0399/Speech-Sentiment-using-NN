@@ -55,3 +55,4 @@ This project focuses on **Speech Emotion Recognition (SER)** by leveraging machi
 ## Conclusion
 This project highlights the effectiveness of **deep learning techniques**, especially **CNNs**, in Speech Emotion Recognition. The preprocessing of audio data and extraction of meaningful features are critical to achieving high accuracy. The results underline the need for extensive data and careful architecture design to mitigate overfitting and improve generalization.
 
+Dataset: https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
